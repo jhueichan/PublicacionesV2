@@ -1,0 +1,97 @@
+.box-table-encuesta{
+font-family: "Calibri", "Lucida Grande", Sans-Serif;
+font-size: 11px;
+margin: 45px;
+width:95%;
+text-align: center;
+border-collapse: collapse;
+border: 1px #F79646;
+margin-left:0;
+text-align: center;
+	
+}
+
+.box-table-encuesta th{
+font-weight: normal;
+background: #F79646;
+
+font-weight: bold;
+color: #FFFFFF;
+font-size: 14px;
+text-align: center;
+
+}
+
+.box-table-encuesta td{
+
+color: #000000;
+padding: 3px;
+font-align: justify;
+font-weight: bold;
+}
+
+
+.box-first-encuesta{
+font-weight:bold;
+width: 30%;
+padding:2px;
+text-align: justify;
+
+}
+
+.box-table-encuesta input{
+	width: 75%;
+	height: 15px;
+}
+
+.box-table-encuesta input.enviar{
+	width: 20%;
+	height: 20px;
+	margin-left:45%;
+	margin-top:3%;
+}
+
+
+
+.box-table-encuesta_respuesta{
+font-family: "Calibri", "Lucida Grande", Sans-Serif;
+font-size: 11px;
+margin: 45px;
+width:95%;
+text-align: center;
+margin-left:0;
+text-align: center;
+border: 1px solid #F79646;
+border-collapse: collapse;
+	
+}
+
+.box-table-encuesta_respuesta th{
+font-weight: normal;
+background: #F79646;
+border: 1px solid #F79646;
+font-weight: bold;
+color: #FFFFFF;
+font-size: 14px;
+text-align: center;
+border-collapse: collapse;
+
+}
+
+.box-table-encuesta_respuesta td {
+border: 1px solid #F79646;
+color: #000000;
+padding: 3px;
+font-align: justify;
+font-weight: bold;
+border-collapse: collapse;
+}
+
+
+.box-first-encuesta_respuesta{
+font-weight:bold;
+width: 30%;
+padding:2px;
+text-align: justify;
+
+}
